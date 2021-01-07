@@ -69,3 +69,5 @@ Share and vote for sentences. Report wrong or incorrect sentences.
 These are words and sentences that have been reported as invalid by users.
 
 
+
+	- Source code: [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-App)
