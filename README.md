@@ -70,4 +70,5 @@ These are words and sentences that have been reported as invalid by users.
 
 
 
-	- Source code: [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-App)
+	- Source code: 
+ - [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-App)
