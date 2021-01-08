@@ -75,7 +75,10 @@ Share and vote for sentences. Report wrong or incorrect sentences.
 
 These are words and sentences that have been reported as invalid by users.
 
+### Editors
 
+ A user who is an Editor will have the rights to view and modify the words and sentences uploaded by any user.
+ An Editor is a trusted user whom we have selected to volunteer in using the app and to monitor, report and correct the content in the app.
 
-	- Source code: 
- - [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-App)
+- Source code: 
+- [Learn Khasi App](https://github.com/peace-shillong/Learn-Khasi-App)
