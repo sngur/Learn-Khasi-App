@@ -35,12 +35,17 @@ The more points you earn, the higher you reach towards upgrading to a new level.
 ### Levels 
 
 There are four levels in the app, you first start at level 1.
-Levels are upgraded up when you earn points. The higher the level the more features you unlock.
+Levels are upgraded* up when you earn points. The higher the level the more features you unlock.
 
 - Level 1 - Start with 0 Points - You can search, ask and add new words and sentences translation.
 - Level 2 - Earned when you have 2500 Points - You can add audio clips for new words and sentences, report wrong or invalid translations.
 - Level 3 - Earned when you have 12500 Points - You can add more words and translations. You will also be able to perform more than 150 advance search online.
 - Level 4 - Unlock this level when you choose to become a sponsor and have unlimited access.
+
+* Note: Level upgrade will be locked, this means even if you have >2500 points you cannot upgrade to the next level. 
+You can unlock this feature my making a one time donation of minimum Rs. 10.
+
+- [Donate Now](https://learnkhasi.in/donate)
 
 
 ### Badge 
